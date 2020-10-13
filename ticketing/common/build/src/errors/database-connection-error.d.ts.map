@@ -1,0 +1,1 @@
+{"version":3,"file":"database-connection-error.d.ts","sourceRoot":"","sources":["../../../src/errors/database-connection-error.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,iBAAiB,CAAC;AAE9C,qBAAa,uBAAwB,SAAQ,WAAW;IACtD,UAAU,SAAO;IACjB,MAAM,SAAkC;;IASxC,eAAe;;;CAOhB"}

@@ -1,0 +1,32 @@
+# One db for one service (auth -> routes -> services -> db)
+# Big challange tp manage data across of services
+
+## sync vs async
+
+### sync - make http request to others services
+### async - services communicate with each other using events
+
+
+# Kubernetes (create an object)
+## create Dockerfile, create image (docker build -t name/image:version), create .yaml pod infra -> posts.yaml ,  kubectl apply -f posts.yaml
+## kubectl get pods (see pods)
+## kubectl (k -if there is shortcut) apply -f posts-dep.yml (apply created config to cluster)
+
+# Add alias (short command)
+## nano ~/.bashrc  (and add e.x.: k="kubectl")
+
+
+# Create init project
+# mkdir folder
+# npm init -y
+# npm i packages (express typescript ...)
+# generate typescript config -  tsc --init 
+
+
+
+# Project
+
+# unify error handling
+# vaidation of request
+# auth
+# make sure to set and than have all sercet key in pod (see att (k/d/)) 
